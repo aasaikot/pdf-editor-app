@@ -2,8 +2,4 @@ Flask==3.0.0
 pikepdf==8.0.0
 firebase-admin==6.4.0
 gunicorn==21.2.0
-<<<<<<< HEAD
 Werkzeug==3.0.1
-=======
-Werkzeug==3.0.1
->>>>>>> 3bf3794443384010be9c897f4dd71f52012ca9d1
