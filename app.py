@@ -147,4 +147,8 @@ def health():
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
+<<<<<<< HEAD
     app.run(host='0.0.0.0', port=port)
+=======
+    app.run(host='0.0.0.0', port=port)
+>>>>>>> 3bf3794443384010be9c897f4dd71f52012ca9d1
